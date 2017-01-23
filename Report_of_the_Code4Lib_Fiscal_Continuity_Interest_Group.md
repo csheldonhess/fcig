@@ -6,11 +6,11 @@ Code4Lib Fiscal Continuity Interest Group Report
 
 This report presents the findings and recommendations of the Code4Lib Fiscal Continuity Interest Group (FCIG) to the Code4Lib community, to assist the community in collectively deciding how we may best achieve ongoing, sustainable fiscal responsibility for the Code4Lib annual meeting/conference.
 
-The challenge addressed in this report is that the current process of recruiting each year an external "fiscal host" to bear the burden of financial responsibility for the Code4Lib Conference imposes a very high cost in terms of work, time, and financial risk for those who make the conference possible for the community: the local planning committees and the host institutions. Many community members have expressed significant concern about whether this cost poses an unacceptable threat to the long-term sustainability of the conference, and undermines the health of the Code4Lib community. 
+The challenge addressed in this report is that the current process of recruiting each year an external "fiscal host" to bear the burden of financial responsibility for the Code4Lib Conference imposes a very high cost in terms of work, time, and financial risk for those who make the conference possible for the community: the local planning committees and the host institutions. Many community members have expressed significant concern about whether this cost constitutes  an unacceptable burden, by hindering the long-term sustainability of the conference, and undermining the overall soundness  of the Code4Lib community. 
 
-From June-Dec 2016, the Fiscal Continuity Interest Group of Code4Lib explored a wide range of options for alternative approaches/ways to make running the annual meeting/conference more fiscally sustainable, and compared these options to current practice. In this report we present an overview of our investigation, summarizing current practice as well as the strongest options for alternative approaches that we identified. To inform the community’s evaluation of these choices, we outline the requirements for maintaining the status quo or implementing a new approach, and we analyze of the pros and cons for each option. 
+From June-Dec 2016, the Fiscal Continuity Interest Group of Code4Lib explored a wide range of options for alternative approaches/ways to make running the annual meeting/conference more fiscally sustainable.In this report we present an overview of our investigation, summarizing current practice as well as the strongest options for alternative approaches that we identified. To inform the community’s evaluation of the  choices presented here, we first outline the requirements for maintaining the status quo, and then the requirements for  implementation for each  alternative approach. Based on these requirements and/or possible terms for each option, we then analyze of the pros and cons for each scenario.. 
 
-Broadly categorized, the options discussed in this report are: 
+Broadly categorized, the three options discussed in this report are: 
 
 * Option 1:  maintain the existing practice of local conference planning committees seeking a new "fiscal host" each year
 
@@ -20,9 +20,9 @@ Broadly categorized, the options discussed in this report are:
 
 ###### Structure of the Report
 
-Section B, "Introduction" provides background to the report, by describing the problem of fiscal hosts for Code4Lib conference, and the formation, objectives, and working process of the FCIG. 
+Section B, "Introduction" provides background to the report, by describing the problem of fiscal hosts for the Code4Lib conference, and the formation, objectives, and working process of the FCIG. 
 
-Section C, "Findings" outlines as objectively as possible the requirements for implementation of each of three options, providing descriptions of: 
+Section C, "Findings" outlines in objective terms  the requirements for implementation of each of three options, providing descriptions of: 
 
 1. current practice ("fiscal hosting" for the annual Code4Lib meeting),
 
@@ -34,23 +34,21 @@ Section D, "Analysis", presents summaries of the strongest arguments for and aga
 
  
 
-Section E concludes the report with our recommendation to the community for a process and timetable to collectively discuss this issue online and in person during January-March 2017, to evaluate the options we have presented, in addition to any other serious proposals that community members may make. Following that discussion, we recommend that the community hold a vote in order to select one of those options and identify volunteers to implement it.
+Section E concludes the report with our recommendation to the community for a process and timetable to collectively discuss this issue online and in person during January-March 2017, to evaluate the options we have presented, in addition to any other serious proposals that community members may make. e recommend that, following that discussion, the community hold a vote in order to select one of those options and identify volunteers to implement it.
 
 ## B. Introduction 
 
 ###### Statement of Problem: Need for Financial Responsibility for Code4Lib Conference 
 
-Code4Lib is has no legal status as organization incorporated or registered with a government entity, but is instead a volunteer-driven collective. Since Code4Lib is not an official organization, it is not possible for Code4Lib to assume legal responsibility for its own expenses incurred to hold the community’s annual meeting, which began in 2006. Over the eleven years since the first Code4Lib meeting, what has become "[the annual Code4Lib Conference](https://code4lib.org/conference)" has been hosted by a succession of libraries, each of which has signed contracts to secure venues, hotel accommodations, and services. This means that as a consequence of hosting the event, each host institution has also played the role of “fiscal host”, and has assumed liability for those contracts.
+Code4Lib is has no legal status as an organization incorporated or registered with a government entity, but is instead a volunteer-driven collective. Since Code4Lib is not an official organization, it is not possible for Code4Lib to assume legal responsibility for its own expenses incurred to hold the community’s annual meeting, which began in 2006. Over the eleven years since the first Code4Lib meeting, what has become "[the annual Code4Lib Conference](https://code4lib.org/conference)" has been hosted by a succession of libraries, each of which has signed contracts to secure venues, hotel accommodations, and services. This means that as a consequence of hosting the event, each host institution has also played the role of “fiscal host”, and has assumed liability for those contracts.
 
  
 
 During this time, the annual meeting as an event has grown steadily in size and complexity, into a significant financial undertaking for these fiscal hosts. In the most recent years, the conference has regularly attracted over 400 attendees and has had a budget in the low six figures. This growth of budgets has a direct effect on the amount of risk that the fiscal host takes on in assuming financial responsibility for contracts: in the event of an unexpected cancellation of the event, it is common for hotel and venue contracts to have significant cancellation penalties. 
 
-Consequently, there are fewer libraries and related institutions who are in a position to take on the financial risk involved in providing a fiscal host for the Code4Lib Conference.  Such risk should not be minimized as an issue: in the worst case, the financial failure of a meeting could result in broad unwillingness to host future meetings and professional and personal consequences for any community members employed by the host institution. There has also been at least one recent case where a local planning committee had plenty of volunteers capable of planning and running the meeting but was unable to find a host institution willing to assume the financial liability.
+One consequence of this increased risk as the conference has grown is that the potential pool of hosts has shrunk, because there are fewer libraries and related institutions who are in a position to take on the financial risk involved in providing a fiscal host for the Code4Lib Conference.  Additionally, such risk should not be minimized as an issue, in terms of potential consequences for individuals involved in conference planning, or long-term outcomes for the community. In the worst case, the financial failure of a meeting could result in broad unwillingness to host future meetings, and professional and personal consequences for any community members employed by the host institution. There has also been at least one recent case in which a local planning committee had plenty of volunteers capable of planning and running the meeting but was unable to find a host institution willing to assume the financial liability.
 
- 
-
-This unwieldy situation has prompted engaged discussion among community members about how our community’s approach to organizing and funding the annual meeting, as well as the increasing expense associated with the conference as it grows, reflects our purpose and values as a community.
+This situation has prompted engaged discussion among community members about how this  approach to organizing and funding the annual meeting, as well as the increasing expense associated with the conference as it grows, reflects our purpose and values as a community. The concerns expressed speak to different aspects of the ideals and goals that are fundamental to Code4Lib.
 
  
 
@@ -70,7 +68,7 @@ In initial discussions, the group brainstormed many potential options to explore
 
 ## C. Findings
 
-This section outlines the practical requirements for each of the three options: 
+This section outlines the practical requirements for implementation or continuation, for each of three options: 
 
 1. maintaining the status quo of fiscal hosting
 
@@ -82,19 +80,17 @@ This section outlines the practical requirements for each of the three options:
 
 ###### Description of Current Practice 
 
-At present, Code4Lib has no legal status and is not an official organization. In one sense, "Code4Lib" does not exist; there is no governance structure nor even any guidelines for membership. The Code4Lib Conference does have a Code of Conduct that applies to individuals who pay a registration fee to attend this event, but otherwise there are no rules for what Code4Lib is or what its members do. In another sense, Code4Lib is one of the most important professional group;s and sources of progress within the cultural heritage sector. Code4Lib is certainly an active group: in addition to the annual conference, there are a number of regional meetings each year, the publication of the Code4Lib journal, and the maintenance of a variety of communications forums.
+At present, Code4Lib has no legal status and is not an official organization. In one sense, "Code4Lib" does not exist; there is no governance structure nor even any guidelines for membership. The Code4Lib Conference does have a Code of Conduct that applies to individuals who pay a registration fee to attend this event, but otherwise there are no rules for what Code4Lib is or what its members do. In another sense, Code4Lib is an active and significant professional group;: in addition to the annual conference, there are a number of regional meetings each year, the publication of the Code4Lib journal, and the maintenance of a variety of communications forums.
 
-The fundraising process employed for the annual Code4Lib meeting reflects the community’s DIY traditions. Recent total budgets for the annual Code4Lib conference have exceeded $250,000, with roughly half of the cost covered by sponsor donations and half by registration fees.  These contributions are secured through the work of a Code4Lib Sponsorship Committee, which self-nominates, forming each year as a group of volunteers who spontaneously reply to a call on the listserv. The Sponsorship Committee follows the successful precedents established by the actions of previous years/committees, but has no official guidelines or instructions. However, the LPC will typically pay close attention to the actions of the Sponsorship Committee, as it is ultimately the responsibility of the institution that is hosting Code4Lib to cover any shortfalls. Members of the Sponsorship Committee sign up to take individual responsibility for contacting potential donors, who are chosen from lists of previous years’ donors, as well as brainstormed by the Sponsorship Committee each year based on the committee members’ own contacts, or the geographic location of the conference that year. Perhaps the only limitation on donors is that they must be institutions that do not have requirements for donating only to 501(c)(3) status organizations, because Code4Lib does not have this status.  
+The fundraising process employed for the annual Code4Lib meeting reflects the community’s DIY traditions. Recent total budgets for the annual Code4Lib conference have exceeded $250,000, with roughly half of the cost covered by sponsor donations and half by registration fees.  These contributions are secured through the work of a Code4Lib Sponsorship Committee, which self-nominates, forming each year as a group of volunteers who spontaneously reply to a call on the Code4Lib listserv. The Sponsorship Committee follows the successful precedents established by the actions of previous years/committees, but has no official guidelines or instructions. However, the LPC will typically pay close attention to the actions of the Sponsorship Committee, as it is ultimately the responsibility of the institution that is hosting Code4Lib to cover any shortfalls. Members of the Sponsorship Committee sign up to take individual responsibility for contacting potential donors, who are chosen from lists of previous years’ donors, as well as brainstormed by the Sponsorship Committee each year based on the committee members’ own contacts, or the geographic location of the conference that year. Perhaps the only limitation on donors is that they must be institutions that do not have requirements for donating only to 501(c)(3) status organizations, because Code4Lib does not have this status.  
 
-Since Code4Lib is not an official organization, and therefore does not have any legal capacity to hold funds or to assume responsibility for contracts, it has been necessary each year to secure an agreement from another legal entity willing to take fiscal responsibility for conference expenses (the "fiscal host"). The fiscal host has often been the library or organization that is supplying space for the conference, but that need not be the case. Every year the work of finding and recruiting the fiscal host has been done by local planning committees, who have usually turned to institutions in their own geographic area willing to perform this service.
+Since Code4Lib is not an official organization, and therefore does not have any legal capacity to hold funds or to assume responsibility for contracts, it has been necessary each year to secure an agreement from another legal entity willing to take fiscal responsibility for conference expenses (the "fiscal host"). The fiscal host has often been the library or organization that is supplying space for the conference, but that need not be the case. Every year the work of finding and recruiting the fiscal host has been done by local planning committees, who have usually turned to institutions in their own geographic area willing to perform this service. In addition to signing contracts and bearing the financial liability of the contract, the fiscal host has typically done the conference bookkeeping as well.
 
-In addition to signing contracts and bearing the financial liability of the contract, the fiscal host has typically done the bookkeeping.
+Code4Lib has so far been fortunate in the successful hosting of conferences, and has benefited from the goodwill of the community by receiving support from institutions willing to voluntarily provide fiscal hosting. However, these fortuitous circumstances are  by no means a given in events planning,and the willingness thus far of institutions to act as fiscal hosts does not mean that the risk an institution takes on should be discounted. 
 
-Code4Lib has so far been fortunate in the successful hosting of conferences, and has benefited from the goodwill of the community by receiving support from institutions willing to voluntarily provide fiscal hosting. However, this streak of good luck is by no means a given, and the willingness thus far of institutions to act as fiscal hosts does not mean that the risk an institution takes on should be discounted. 
+Additionally, the need to secure a new fiscal host each year can add substantial complexity to the planning process, in the event of any irregularities in determining a host site. Preparations for the 2017 conference provide an example of the kind of complications that can ensue, and the kind of liability that the fiscal host takes on. The local planning committee for the 2017 conference includes members from southern California and the southeast U.S. from the original Chattanooga 2017 group. However, the fiscal host for the 2017 conference is UCLA, who is the entity that has signed contracts with an event planner, with the venue, with several hotels, and with providers of other services.  As such, UCLA is ultimately responsible for paying on those contracts, and some of those liabilities would not disappear even if the 2017 conference were abruptly cancelled. For example, in order to secure sufficient hotel rooms for attendees, UCLA has guaranteed that a certain number of hotel-nights will be purchased by conference attendees; if a threshold is not met, UCLA would be obligated to pay the difference.
 
-Additionally, the need to secure a new fiscal host each year can add substantial complexity to the planning process, in the event of any irregularities in determining a host site. Preparations for the 2017 conference provide an example of the kind of complications that can ensue, and the kind of liability that the fiscal host takes on. The local planning committee for the 2017 conference includes members from southern California and the southeast U.S. from the original Chattanooga 2017 group. However, the fiscal host for the 2017 conference is UCLA, who is the entity that has signed contracts with an event planner, with the venue, with several hotels, and with providers of other services.  As such, UCLA is ultimately responsible for paying on those contracts, and some of those liabilities would not disappear even if the 2017 conference were abruptly cancelled. For example, in order to secure sufficient hotel rooms for attendees, UCLA has guaranteed that  certain number of hotel-nights will be purchased by conference attendees; if a threshold is not met, UCLA would be obligated to pay the difference.
-
-Code4Lib has no bank account, and in principle each year's LPC has to prepare to start from scratch, which can make it a challenge to pay deposits to secure venue space. Fortunately, each conference gets some seed money from the previous year's LPC; for example, UCLA received over $30,000 from the surplus achieved by the 2016 conference. Additional funding comes from registration fees and sponsorships.
+The lack of independent financial agency means that Code4Lib has no bank account, and in principle each year's LPC has to prepare to start from scratch, which can make it a challenge to pay deposits to secure venue space. Fortunately, each conference gets some seed money from the previous year's LPC; for example, UCLA received over $30,000 from the surplus achieved by the 2016 conference. Additional funding comes from registration fees and sponsorships.
 
 ### Option 2: Obtain Ongoing Fiscal Sponsorship from an External Organization
 
@@ -102,7 +98,7 @@ Code4Lib has no bank account, and in principle each year's LPC has to prepare to
 
 In essence, fiscal sponsorship would secure for Code4Lib a similar relationship to the annual fiscal hosts, except for an ongoing duration, and in exchange for a fee paid by Code4Lib to the sponsor organization. 
 
-[Fiscal sponsorship](http://grantspace.org/tools/knowledge-base/Individual-Grantseekers/Fiscal-Sponsorship/fiscal-sponsorship) is a formal arrangement between a 501(c)(3) non-profit organization and a project, organization, group, or program that may lack tax-exempt status. Common functions provided by fiscal sponsors include assisting with fundraising, receiving charitable contributions on behalf of the sponsored project, and performing financial/administrative tasks such as handling contracts and disbursing funds. The website of the[ National Council of Nonprofits](https://www.councilofnonprofits.org/tools-resources/fiscal-sponsorship-nonprofits) provides a comprehensive overview of considerations for these arrangements, and links to many excellent resources for more information on fiscal sponsorship. A specific example of a fiscal sponsorship agreement is the one [between the Software Freedom Conservancy and the Evergreen Project](http://evergreen-ils.org/wp-content/uploads/gov/2012-07-01_evergreen-sponsorship-agreement_signed-by-all_scanned-by-bkuhn.pdf).
+[Fiscal sponsorship](http://grantspace.org/tools/knowledge-base/Individual-Grantseekers/Fiscal-Sponsorship/fiscal-sponsorship) is a formal arrangement between a 501(c)(3) non-profit organization and a project, organization, group, or program that may lack tax-exempt status. Common functions provided by fiscal sponsors include assisting with fundraising, receiving charitable contributions on behalf of the sponsored project, and performing financial/administrative tasks such as handling contracts and disbursing funds. The website of the[ National Council of Nonprofits](https://www.councilofnonprofits.org/tools-resources/fiscal-sponsorship-nonprofits) provides a comprehensive overview of considerations for these arrangements, and links to many resources for more information on fiscal sponsorship. A specific example of a fiscal sponsorship agreement is the one [between the Software Freedom Conservancy and the Evergreen Project](http://evergreen-ils.org/wp-content/uploads/gov/2012-07-01_evergreen-sponsorship-agreement_signed-by-all_scanned-by-bkuhn.pdf).
 
  
 
@@ -132,11 +128,15 @@ The FCIG obtained information from the following organizations about possible te
 
 4. CLIR/DLF
 
-5. Fiscal Sponsor Directory*  http://www.fiscalsponsordirectory.org/
+5. [Fiscal Sponsor Directory](http://www.fiscalsponsordirectory.org/)
 
-Of this list, Fractured Atlas and Nercomp were determined not to be possible to pursue further. LITA/ALA and CLIR/DLF each offered possible terms for fiscal sponsorship arrangements with Code4Lib. The LITA/ALA and CLIR/DLF sections below reflect these organizations’ responses to the list of "Questions posed to potential Fiscal Sponsors", in Appendix A of this report.
+6. Educopia
 
-In addition to the individual organizations in #1-4, the FCIG also conducted a basic search within the Fiscal Sponsor Directory to get a sense of what arrangements possible fiscal sponsors in this list would offer. The directory search provided a list of approximately ten organizations whose mission and sponsorship focus seems compatible with Code4Lib; these organizations could be examined more closely if Code4Lib wants to pursue a contract for fiscal sponsorship but elects not to choose one of the possibilities presented in this report. This list is at the FCIG wiki page. 
+Of this list, Fractured Atlas and Nercomp were determined not to be possible to pursue further. LITA/ALA and CLIR/DLF each offered possible terms for fiscal sponsorship arrangements with Code4Lib. The LITA/ALA and CLIR/DLF sections below outline these terms, and reflect these organizations’ responses to the list of "Questions posed to potential Fiscal Sponsors", in Appendix A of this report.
+
+In addition to the individual organizations in #1-4, the FCIG also conducted a basic search within the online Fiscal Sponsor Directory, to get a sense of what arrangements other possible fiscal sponsors in this list might  offer. The directory search provided a list of approximately ten organizations whose mission and sponsorship focus appear  compatible with Code4Lib; these organizations could be examined more closely if Code4Lib wants to pursue a contract for fiscal sponsorship but elects not to choose one of the possibilities presented in this report. This list is at the FCIG wiki page. 
+
+Finally, very late in the process, the FCIG also inquired with Educopia. We did not have time to complete this discussion, but this organization may be another possibility to consider, as a fiscal sponsor. The FCIG will provide an addenda to this report if we are able to gather more information about this possibility. 
 
 ###### Summary of Findings from Each Organization 
 
@@ -470,17 +470,19 @@ We propose the following process and time-table for the community to make a deci
 
 #### January and February 2017
 
-* Discuss this report and the various options it explores via the Code4Lib mailing list, Slack, and IRC. Representatives from LITA and the DLF will be available to answer questions and participate in the discussion.
+* **Online Community Discussion.** Discuss this report and the various options it explores via the Code4Lib mailing list, Slack, and IRC. Representatives from LITA and the DLF will be available to answer questions and participate in the discussion.
+
+* **Contribute Questions to the Wiki.** To ensure a thorough and inclusive evaluation process, the FCIG suggests that anyone with questions or concerns about any or all of the options discussed post these to a page created for this purpose within the FCIG section of the Code4Lib wiki. 
 
  
 
 #### March 2017 (During the 2017 Code4Lib conference)
 
-* Continue the discussions in person and via streaming. The FCIG has made arrangements to hold breakout sessions as well as a Birds of a Feather meeting on Thursday, March 9, and is working with the 2017 LPC to ensure that the Birds of a Feather meeting is live-streamed.
+* **Online and in-person Discussion. **Continue the discussions in person and via streaming. The FCIG has made arrangements to hold breakout sessions as well as a Birds of a Feather meeting on Thursday, March 9, and is working with the 2017 LPC to ensure that the Birds of a Feather meeting is live-streamed.
 
 #### Shortly after the conference
 
-* Hold a community vote via the Diebold-o-tron to decide among the following options:
+* **Community Vote.** Hold a community vote via the Diebold-o-tron to decide among the following options:
 
     * Maintain the status quo
 
@@ -490,9 +492,9 @@ We propose the following process and time-table for the community to make a deci
 
     * Do something else as per any serious proposals made during the discussions in January, February, and March 2017
 
-#### Implementation/Moving Forward
+#### Moving Forward
 
-* If the outcome of the Diebold-o-tron community vote indicates a consensus to do something other than maintain the status quo, implementing the community's choice would require action on the part of one or more people. Consequently, the FCIG recommends that prior to the vote that people put themselves forward as volunteers for an implementation group for one or more of the options.
+* **Implementation**. If the outcome of the Diebold-o-tron community vote indicates a consensus to do something other than maintain the status quo, implementing the community's choice would require action on the part of one or more people. Consequently, the FCIG recommends that prior to the vote that people put themselves forward as volunteers for an implementation group for one or more of the options.
 
 # Appendix A — Questions posed to potential fiscal sponsors
 
