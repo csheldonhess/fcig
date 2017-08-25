@@ -1,6 +1,6 @@
 Code4Lib Fiscal Continuity Interest Group Report
 
-23 January 2017, updated on 25 July 2017
+23 January 2017, updated on 25 August 2017
 
 ## A. Executive Summary
 
@@ -547,3 +547,81 @@ This model is in alignment with Code4Lib’s cultural values and objectives, but
 A couple additional points emerged from the conversation with Educopia, which may be useful to include in the broader community discussion as it unfolds. Throughout our communications, Educopia expressed strong support for Code4Lib’s exploration of options for developing our community, and their initiatives in this area suggest several areas of expertise that could be very useful for Code4Lib’s community to keep in mind going forward, which we have outlined below. 
 
 First, Educopia’s explicit [mission](https://educopia.org/about-us/mission), “to build networks and collaborative communities to help cultural, scientific, and scholarly institutions achieve greater impact” is clearly closely aligned with many areas within Code4Lib’s objectives. In practical terms, this suggests that if Code4Lib decides to pursue some form of organizational structure in the future, Educopia’s expertise, particularly in helping communities to grow and articulate their strengths and purpose from the earliest stages, and to come up with mechanisms to move forward in making connections” across institutions and sectors” for the purpose of knowledge sharing, could greatly assist Code4Lib’s efforts. A specific example discussed in our phone call on January 31 is that Educopia could be a source for recommendations about facilitator/consulting services, to assist with providing neutrality for community development discussions if this avenue is pursued. Another potential area of overlap between Educopia’s work and Code4Lib’s activities would be if the Code4Lib Journal were to become a further developed initiative in the future. Educopia mentioned their interest in the Journal as a vigorous example of sustained, community-driven and practical research by and for information professionals, and their experience in supporting interdisciplinary research efforts in this field could be relevant in supporting this endeavor as well.
+
+# Appendix C — Open Library Foundation
+
+Appendix C — Proposal by the Open Library Foundation to act as fiscal sponsor
+
+The Open Library Foundation (OLF) acts as a host for FOLIO, the Open Library Environment (OLE), and the Global Knowledgebase (GOKb). It views its mission as
+
+> To assist and facilitate educational organizations, foundations, partnerships and commercial entities in collaborating to foster, develop and sustain open technologies and innovation to support libraries, learning, research and teaching.
+
+OLF has expressed interest in acting as a fiscal sponsor to Code4Lib. In July of 2017, the FCIG posed its questions to Michael Winkler, the Managing Director of OLF. His responses on behalf of OLF follow:
+
+## What does your fee structure look like, for fiscal sponsorship of a group?
+
+The OLF is meeting with our initial community this summer to pin down the business model, and the fee structures, for member communities. Currently, OLE and EBSCO have agreed to fund the operations of the Foundation through June of 2018. This will allow our communities to meet and determine the financial structure of the OLF. New member communities would be welcome to those discussions. After half a year of full operations, it is clear to me as Treasurer, that the needs of the OLF financial obligations are reasonably lightweight.
+
+## What would you need from Code4Lib, in terms of organization? What kind of governance, if any, would your organization need Code4Lib to have?
+
+In general, the OLF does not proscribe a governance model to member communities. We do require that a community have explicit governance, and that it be documented in a charter, or similar instrument, for the community. The Foundation is interested in communities that are committed to open, wide and diverse participation, focused around the library domain, and work to increase the value and options for libraries, particularly in technology and shared solutions.
+
+## Is a single point of contact sufficient? (For example, the chair of the conference committee?)
+
+A single point of contact is sufficient.
+
+## Would it be acceptable for that point of contact to change annually?
+
+This is acceptable if it is a well-regulated and understood process.
+
+## Does that point of contact need to be a formal member of your organization?
+
+The Foundation model for membership, at this point, is that the community join the Foundation, not individuals. So, should we move forward, the Code4Lib Community would be a member community of the Foundation, would provide a governing charter that aligns with the goals of the Foundation, and that the Community participate in the activities of the Foundation.
+
+## What kind of control does your organization want/need to have, if any, over Code4Lib’s processes?
+
+We are interested in providing the structures and infrastructures to communities that support, further, and enhance the goals of the Foundation. We believe that member communities best understand the needs of their communities and how they should operate and resource their activities. The Foundation has interests in broadening participation in member communities. We anticipate that there are opportunities for cross-fertilization between our member communities where interests and capacity coincide. The Foundation may wish to participate in community governance to ensure coordination and communication among member communities, and to identify and leverage collaborative opportunities. The Foundation has obligations to provide shared collaborative infrastructure to our member communities, and expect that our member communities share and cooperate in the provision, management, and use of these resources. Beyond this, the Foundation does not seek to control the processes of our member organizations.
+
+## Would your organization need Code4Lib to follow your organization’s bylaws, or to have our own?
+
+We expect member communities to provide a governance structure that makes sense to its participants, that supports its goals, and is aligned with the Foundation goals for openness, innovation, responsibility, and effectiveness. This governance could take the form of bylaws, charter, or other governing document. The Foundation's interest is that the governance of a member community be clear and responsible for community activities so that we can understand how scope, obligations, and responsibility are managed by the community.
+
+## Would Code4Lib need to adopt your organization’s code of conduct for its conferences, or may we continue to use our own?
+
+The Foundation has a code of conduct, though it is based on the Code4Lib code. Again, as a member organization, we'd expect that the Code4Lib community would work within the Foundation to bring forward ideas embodied in your code to enrich the code of our other member communities. We believe that our member communities can learn from each other, and enhance our collective experience. The Foundation would not require Code4Lib to adopt the OLF Code. Nor would we expect that the Code4Lib community would withhold positive contributions to the collective OLF Community.
+
+## Would we have the option available to have conference in Canada, if a group there volunteered, or would that pose problems for your organization? Can you readily receive and disburse funds in Canadian dollars?
+We are a global organization and have already held events in the US, Denmark, Australia, Germany, Italy, Mexico, and Chile. The Foundation can receive and disburse funds in foreign currencies.
+
+## Some of our attendees are international; will this pose any problems?
+
+No
+
+## Do you have enough staff available to deal with bookkeeping, particularly during the registration rush and the post-conference invoice-paying period?
+
+I would need to know more about the demands that you expect. The Foundation is staffed through volunteer contributions of effort. We have contracted services with accounting and banking operations, but I would need to understand the scale and responsiveness expected. It is likely that the Foundation might accommodate temporary increased demand for a service with additional contracted effort.
+
+## In the worst case, do you have sufficient assets or insurance to absorb the complete failure of a Code4Lib conference?
+
+The Foundation currently has no needs for this sort of reserve or insurance. As a functioning corporation, the Foundation can obtain insurance, as necessary, to cover risks on behalf of the community.
+
+## Do you currently act as a fiscal sponsor for a group that did not originate from within your own organization? May we contact them?
+
+The Foundation was chartered in March of 2016, approved bylaws and sat a Board in October 2016, and began operations in January 2017. In that sense, all of our communities - FOLIO, GOKb, and OLE - originated outside the Foundation. I can provide you with contacts for those communities. We are closing negotiations with another long-standing and unaffiliated community, but I am unable to provide a contact at this time.
+
+## Have you acted in the past as a fiscal sponsor for a group or project that subsequently decided to leave your organization? If so, why did they leave?
+
+We have not.
+
+## How would you manage giving Code4Lib conference organizers timely access to financial records for monies held by your organization on Code4Lib's behalf?
+
+We provide monthly accounting to our member communities of the Foundation accounts and accounts held for the community. As Treasurer, I am available to all member communities to discuss, analyze, and act on financial issues.
+
+## Are there any significant incompatibilities between your mission and Code4Lib’s?
+
+I do not believe that there are significant incompatibilities between the OLF and Code4Lib. The Foundation stands to support, foster, and encourage open and collaborative engagement among library community organizations and actors to provide a forum for conversation and collective action. The Foundation, as a public charity, is obliged to serve educational interests of our member communities. We value diversity, open engagement and participation, and shared responsibility and risk. I believe that these are consistent with Code4Lib community ethics.
+
+## Are you able to readily collect funds in a variety of ways, such as check, bank transfer, PayPal, direct credit card payments, and so forth?
+
+Yes
+
