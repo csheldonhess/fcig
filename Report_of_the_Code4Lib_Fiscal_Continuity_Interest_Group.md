@@ -552,7 +552,7 @@ First, Educopia’s explicit [mission](https://educopia.org/about-us/mission), �
 
 Appendix C — Proposal by the Open Library Foundation to act as fiscal sponsor
 
-The Open Library Foundation (OLF) acts as a host for FOLIO, the Open Library Environment (OLE), and the Global Knowledgebase (GOKb). It views its mission as
+The [Open Library Foundation](http://www.openlibraryfoundation.org/) (OLF) acts as a host for FOLIO, the Open Library Environment (OLE), and the Global Knowledgebase (GOKb). It views its mission as
 
 > To assist and facilitate educational organizations, foundations, partnerships and commercial entities in collaborating to foster, develop and sustain open technologies and innovation to support libraries, learning, research and teaching.
 
