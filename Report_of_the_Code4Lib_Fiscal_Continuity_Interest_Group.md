@@ -1,6 +1,6 @@
 Code4Lib Fiscal Continuity Interest Group Report
 
-23 January 2017, updated on 25 August 2017
+23 January 2017, updated on 11 September 2017
 
 ## A. Executive Summary
 
@@ -624,4 +624,99 @@ I do not believe that there are significant incompatibilities between the OLF an
 ## Are you able to readily collect funds in a variety of ways, such as check, bank transfer, PayPal, direct credit card payments, and so forth?
 
 Yes
+
+# Appendix D — DuraSpace
+
+Appendix D — Proposal by DuraSpace to act as fiscal sponsor
+
+[DuraSpace](http://www.duraspace.org/) describes itself as follows:
+
+> DuraSpace is a non-profit organization providing technical leadership, sustainability planning, fundraising, community development, marketing and communications, collaborations and strategic partnerships and administration to the DSpace, Fedora and VIVO projects.
+
+DuraSpace has expressed interest in acting as a fiscal sponsor to Code4Lib. In July and August of 2017, the FCIG posed its questions to representatives of DuraSpace. In early September, FCIG members held a conference call with DuraSpace to discuss their response. Their final response to the initial questions follows.
+
+## What does your fee structure look like, for fiscal sponsorship of a group?
+
+We’ve structured fiscal agreements in a variety of ways. For example, we have experience with flat fee, percentage of gross receipts, and hourly rate calculations plus transaction fee arrangements. 
+
+As mentioned by FCIG, if DuraSpace is selected as a fiscal sponsor, we would be responsible for filing taxes, handling funds, contract review, performing due diligence on those contracts and signing them. We recommend a flat annual fee of $7,000 USD. We will also recommend fiscal practices that ensure Code4Lib maintain a healthy fiscal reserve and purchase event insurance. 
+
+
+What would you need from Code4Lib, in terms of organization? What kind of governance, if any, would your organization need Code4Lib to have?
+
+
+We would like to have identified leadership within the project community that is authorized to sign a Memorandum of Understanding (MOU), if needed and have authority to spend C4L money.
+
+## Is a single point of contact sufficient? (For example, the chair of the conference committee?)
+
+If the conference committee chair is able to speak to or connect us with those responsible for the journal or other initiatives that require fiscal intervention we would consider a single point of contact. We typically work with a steering committee for sponsored or incubated projects. 
+
+## Would it be acceptable for that point of contact to change annually?
+
+Yes. 
+
+## (If applicable) Does that point of contact need to be a formal member of your organization?
+
+No. 
+
+## What kind of control does your organization want/need to have, if any, over Code4Lib’s processes?
+
+We promote autonomy for our partners, projects, contracts, etc. 
+
+## Would your organization need Code4Lib to follow your organization’s bylaws, or to have our own?
+
+C4L would be expected to report expenses and revenues adhering to GAAP practices and report revenue and expenses in the same fiscal year: [http://duraspace.org/sites/duraspace.org/files/bylaws-may-2010-approved%20copy_0.pdf](http://duraspace.org/sites/duraspace.org/files/bylaws-may-2010-approved%20copy_0.pdf).
+
+## Would Code4Lib need to adopt your organization’s code of conduct for its conferences, or may we continue to use our own?
+
+DuraSpace does have a draft Code of Conduct, available here: [https://docs.google.com/document/d/1HRisLUyIGZnQR52okP96_Tej6noiB4hy1NiCy1mlSd4/edit](https://docs.google.com/document/d/1HRisLUyIGZnQR52okP96_Tej6noiB4hy1NiCy1mlSd4/edit). It is based in part on the C4L code. 
+
+Affiliates can use their own Code of Conduct. For example Samvera and VIVO have their own Codes of Conducts. 
+
+## Would we have the option available to have a conference in Canada, if a group there volunteered, or would that pose problems for your organization? Can you readily receive and disburse funds in Canadian dollars?
+
+We have two staff members located in Canada. We can receive and disburse funds in CDN for payroll. However, when spending outside of the USA on events we are limited to two payment methods, wire transfer and check in USD. Lifting these limitations is something we can investigate with our bank if C4L is interested in pursuing fiscal sponsorship with DuraSpace.
+ 
+## Some of our attendees are international; will this pose any problems?
+
+No, we aim to engage effectively with the global community. We can write sponsorship letters for attendees whose organizations require them and have a policy to return registration fees if someone is turned away at immigration. 
+
+## Do you have enough staff available to deal with bookkeeping, particularly during the registration rush and the post-conference invoice-paying period?
+
+At present, no. We would need to contract more time from our accountant and allocate portions of time from a few members of our executive leadership team in the pre and post-conference periods.  
+
+## In the worst case, do you have sufficient assets or insurance to absorb the complete failure of a Code4Lib conference?
+
+We have an obligation to the greater DuraSpace community to spend money, including reserves, on projects and contracts, as articulated in membership agreements, MOUs, and other formal agreements. Similarly, we will not use Code4Lib conference money for anything but related expenses as approved by the Code4Lib community. 
+
+However, we are capable of obtaining event insurance to protect against the failure of a conference against natural disasters and other insurable occurrences. We have a good network of insurers who can help us find a good option to mitigate risk. In many cases, venue costs and contracts pose the most risk. We would expect Code4Lib to build a reserve (within 5 years) to cover a minimum of half of the total accommodation costs for an event (approximately $75,000) to mitigate the risk of an uninsurable occurrence (e.g. circumstances that may lead to changing location and losing a deposit/ breaking terms). 
+
+## Do you currently act as a fiscal sponsor for a group that did not originate from within your own organization? May we contact them?
+
+The Samvera project is an affiliate project. The steering committee consists of DuraSpace’s Debra Hanken Kurtz, Hull University’s Richard Green & Chris Awre, Stanford University’s Tom Cramer (signing authority), University of Virginia’s Robin Ruggaber.  We can make introductions for contact as you wish. 
+
+The VIVO project went from incubated project to full project recently. Mike Conlon is the contact for VIVO. We can make an introductions for contact as you wish. 
+
+PASIG is an affiliate group. Art Pasquinelli and Tom Cramer are the contacts. We can make introductions for contact as you wish. 
+
+## Have you acted in the past as a fiscal sponsor for a group or project that subsequently decided to leave your organization? If so, why did they leave?
+
+Not in the recent past, no. 
+
+## How would you manage giving Code4Lib conference organizers timely access to financial records for monies held by your organization on Code4Lib's behalf?
+
+There would be regular reporting based on the conference registration system as well as monthly financial reporting.
+
+## Are there any significant incompatibilities between your mission and Code4Lib’s?
+
+We feel our mission aligns well with that of Code4Lib. 
+
+DuraSpace is committed to providing leadership and innovation in the development and deployment of open technologies that promote durable, persistent access to digital data. We collaborate with academic, scientific, cultural, and technology communities in creating practical solutions to help ensure that current and future generations have access to our collective digital heritage. Our values are expressed in our organizational byline, "open technologies for durable digital content."
+
+We promote the autonomy for our partners. We will strive to support the decisions of our affiliates (both fiscal and ethical) as much as possible, within the parameters of our own organization's legal and fiscal responsibility. 
+
+## Are you able to readily collect funds in a variety of ways, such as check, bank transfer, PayPal, direct credit card payments, and so forth?
+
+Yes. All of the above mentioned payment options are accepted by DuraSpace. 
+
 
