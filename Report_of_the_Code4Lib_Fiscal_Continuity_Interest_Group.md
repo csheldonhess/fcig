@@ -642,7 +642,7 @@ We’ve structured fiscal agreements in a variety of ways. For example, we have 
 As mentioned by FCIG, if DuraSpace is selected as a fiscal sponsor, we would be responsible for filing taxes, handling funds, contract review, performing due diligence on those contracts and signing them. We recommend a flat annual fee of $7,000 USD. We will also recommend fiscal practices that ensure Code4Lib maintain a healthy fiscal reserve and purchase event insurance. 
 
 
-What would you need from Code4Lib, in terms of organization? What kind of governance, if any, would your organization need Code4Lib to have?
+## What would you need from Code4Lib, in terms of organization? What kind of governance, if any, would your organization need Code4Lib to have?
 
 
 We would like to have identified leadership within the project community that is authorized to sign a Memorandum of Understanding (MOU), if needed and have authority to spend C4L money.
