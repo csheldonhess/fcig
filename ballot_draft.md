@@ -24,13 +24,20 @@ Ballot Questions
 
 
 1. Please rate each of these options 0-3, in terms of how well you believe they will help Code4Lib meet its goals:
+
     a) Do nothing/Maintain status quo: Local Conference Planning Committees bear burden of finding and recruiting a local “fiscal host” for conference each year (0, 1, 2, 3)
+
     b) Secure an ongoing fiscal sponsorship for C4L: pursue one of the offers from possible fiscal sponsors outlined in the FCIG Report  (0, 1, 2, 3)
+
     c) Incorporate C4L as a nonprofit entity  (0, 1, 2, 3)
 
 
 2. Assuming the community as a whole chooses to go with fiscal sponsorship (option b, above), please rate each of the following options in terms of your preference for this organization’s terms for fiscal sponsorship, as outlined in the FCIG Report. If the Code4Lib community chooses to maintain the status quo (a, above) or to incorporate as a nonprofit entity (c, above), the results of this question will be ignored.
+
     a) ALA/LITA  (0, 1, 2, 3)
+
     b) DLF/CLIR  (0, 1, 2, 3)
+
     c) OLF  (0, 1, 2, 3)
+    
     d) DuraSpace  (0, 1, 2, 3)
