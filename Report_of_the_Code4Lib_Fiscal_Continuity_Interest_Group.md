@@ -294,6 +294,8 @@ In evaluating these options, it is worth noting that Options 2 and 3 are not mut
 
 ### Table: Summary of Options
 
+This table gives only a broad comparison of the options. For fuller details on the points summarized below, please see the individual sections for each of the potential fiscal sponsors: LITA/ALA, CLIR/DLF, OLF, and DuraSpace, and the sections presenting the requirements involved in forming a non-profit organization option, as well as maintaining status quo.
+
 <table>
   <tr>
     <td>Option </td>
@@ -318,6 +320,22 @@ In evaluating these options, it is worth noting that Options 2 and 3 are not mut
     <td>CLIR/DLF would not require changes; Code4Lib would need to continue hiring conference mgmt services. CLIR/DLF recommends event insurance.</td>
     <td>Would need process to identify primary contact to CLIR/DLF</td>
     <td>yes</td>
+  </tr>
+  <tr>
+    <td>Fiscal sponsorship:  Open Library Federation</td>
+    <td>To be determined, in coordination with OLF</td>
+    <td>Needs to be determined: whether OLF or C4L would cover event insurance cost annually</td>
+    <td>OLF did not specify any required changes to the conference planning process</td>
+    <td>OLF requires member communities to have explicit governance that is documented in a charter or similar instrument</td>
+    <td>yes</td>
+  </tr>
+  <tr>
+    <td>Fiscal sponsorship: DuraSpace</td>
+    <td>$7,000 / year</td>
+    <td>DuraSpace recommends C4L create & maintain a reserve account of $75Kto cover at minimum half of the cost of potential conference failure, and to purchase event insurance for annual conference</td>
+    <td>DuraSpace would not require changes, but strongly recommends C4L obtain event insurance for annual conference </td>
+    <td>DuraSpace requests C4L identify leadership with authorization: to sign Memorandum of Understanding (MOU), and to spend C4L funds; also expects C4L to report expenses and revenues annually</td>
+   <td>yes, with qualification regarding shared coverage of potential conference failure</td>
   </tr>
   <tr>
     <td>Code4Lib forms NPO</td>
