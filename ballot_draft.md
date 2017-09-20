@@ -24,8 +24,6 @@ Ballot Questions : Please vote on both questions below
 
 ### Question 1
 
-The FCIG Report describes the challenges of current fiscal practice relative to annual Code4Lib Conference organizing: each year C4L has to search for and recruit an external “fiscal host” to bear the burden of financial responsibility for the conference. In the Report, the FCIG suggests that this practice is burdensome and impractical because it imposes a very high cost in terms of work, time, and financial risk for the local planning committees and the host institutions, which hinders the long-term sustainability of the conference, and undermines the overall soundness of the Code4Lib community. 
-
 In this community vote, the FCIG asks C4L to evaluate the data presented in the FCIG Report, and to choose among the three options for moving forward that the Report outlines: 
 * do nothing/maintain status quo 
 * obtain an ongoing fiscal sponsorship with an organization external to Code 4 Lib 
